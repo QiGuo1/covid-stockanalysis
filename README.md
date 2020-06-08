@@ -12,5 +12,5 @@ To analysis the global economic impact of pandamic novel coronavirus, the task i
 <br>Covid-19 data is taken from Github John Hopkins Repository
 <br>https://github.com/CSSEGISandData/COVID-19
 
-<b>Stock Indices are collected from Yahoo Finance</b>
+Stock Indices are collected from Yahoo Finance
 <br>https://finance.yahoo.com/
